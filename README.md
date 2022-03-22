@@ -104,6 +104,7 @@ tar: Error is not recoverable: exiting now
 19. After a few more minutes both nodes were fully operational with visible _ImOnline_ events and authored blocks performed.
 20. By the end of these 2-3 hours journey both of my nodes already had 2 Offline events each.
 21. In the end I was just happy how things turned out. The migration could have been handled much better now by looking to all of the decisions and actions performed described in these steps. But it could also end up really bad. So overall it was a nice experience :)
+22. Special Kudos to @tuggy and @polkachu to make community snapshots a reliable source of information/tools, when things get hot.
 
 _Lessons learned_
 
